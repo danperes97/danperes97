@@ -6,9 +6,10 @@
 
 ### About me 🤵
 
-Hi I'm a Backend Engineer, I love Ruby ![RubyLang](https://cdn.emojidex.com/emoji/mdpi/Ruby.png)  programming language but I lived surrounded by other programming languages. Im currently working at Gympass.
+Hi I'm a Backend Engineer, I love Ruby ![RubyLang](https://cdn.emojidex.com/emoji/mdpi/Ruby.png)  programming language but I lived surrounded by other programming languages. Im currently working at 99Hunters as Tech Lead.
 
-  - 😎 Ruby 
+  - 😎 Ruby
+  - 😎 Dart (Flutter) 
   - 😆 Scala
   - 🤓 Python
   - 🌝 JavaScript

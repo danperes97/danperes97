@@ -9,6 +9,7 @@
 Hi I'm a Backend Engineer, I love Ruby ![RubyLang](https://cdn.emojidex.com/emoji/mdpi/Ruby.png)  programming language but I lived surrounded by other programming languages. Im currently working at CareMessage as Software Engineer.
 
   - 😎 Ruby
+  - 🎮 C#
   - 😎 Dart (Flutter) 
   - 😆 Scala
   - 🤓 Python

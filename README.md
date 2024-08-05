@@ -6,7 +6,7 @@
 
 ### About me 🤵
 
-Hi I'm a Backend Engineer, I love Ruby ![RubyLang](https://cdn.emojidex.com/emoji/mdpi/Ruby.png)  programming language but I lived surrounded by other programming languages. Im currently working at CareMessage as Software Engineer.
+Hi I'm a Backend Engineer, I love Ruby ![RubyLang](https://cdn.emojidex.com/emoji/mdpi/Ruby.png)  programming language but I lived surrounded by other programming languages. I'm currently working at CareMessage as a Software Engineer.
 
   - 😎 Ruby
   - 🎮 C#
@@ -16,16 +16,16 @@ Hi I'm a Backend Engineer, I love Ruby ![RubyLang](https://cdn.emojidex.com/emoj
   - 🌝 JavaScript
   - ❤️ Elixir
 
-I really love to read also, if you had book suggestions feel free to send me a messsage.
+I really love to read also, if you have book suggestions feel free to message me.
 
-### Here are some articles that a wrote 📖 📚
+### Here are some articles that I wrote 📖 📚
 
   - Ruby threads: https://medium.com/gympass/ruby-threads-worth-it-46167522142b
 
 
 ### Best Github Projects 💻 🖱️
 
-My github had a bunch of useless things, or things that I use as resource on future projects.  But there a few usefull projects. Here's my top 3:
+Here's my top 3:
   - 🥇 https://github.com/danperes97/ChatterElixir
   - 🥈 https://github.com/danperes97/nlp_python_api
   - 🥉 https://github.com/danperes97/identity_icon
